@@ -15,6 +15,8 @@ description: Erste Konzeptfassung für asymtrack, inklusive regulatorischer Abgr
 > **Status:** first draft, 2026-09-02. Nothing here is decided. The technology stack is
 > deliberately left open. Sections marked *UNVERIFIED* contain third-party input that has
 > not been checked against primary sources.
+> **Language versions:** this file is the lead version. A German translation is kept
+> alongside it at [concept.de.md](concept.de.md).
 
 ## 1. Idea in one paragraph
 
